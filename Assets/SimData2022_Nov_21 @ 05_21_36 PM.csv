@@ -1,0 +1,42 @@
+Name, Momentum, Velocity, Mass, Dist->BH, Active, Black Hole Mass, Date/Time
+Orb,2.236068,0,5,0,True,500,2022-Nov-21 @ Time 17:20:55
+Orb (3),3.008322,0,5,0,True,500,2022-Nov-21 @ Time 17:20:55
+GiantCelestialBody,57.00877,0,50,0,True,500,2022-Nov-21 @ Time 17:20:55
+Orb (1),1.389244,0,5,0,True,500,2022-Nov-21 @ Time 17:20:55
+Orb (2),1.749286,0,5,0,True,500,2022-Nov-21 @ Time 17:20:55
+GiantCelestialBody (1),75.16648,0,50,0,True,500,2022-Nov-21 @ Time 17:20:55
+GiantCelestialBody (4),50.24938,0,50,0,True,500,2022-Nov-21 @ Time 17:20:55
+GiantCelestialBody (3),36.40055,0,50,0,True,500,2022-Nov-21 @ Time 17:20:55
+GiantCelestialBody (2),41.23106,0,50,0,True,500,2022-Nov-21 @ Time 17:20:55
+Orb (1),72.28493,14.45699,5,1.261673,False,505,2022-Nov-21 @ Time 17:21:01
+Orb,2.60726,0.521452,5,40.51295,True,505,2022-Nov-21 @ Time 17:21:02
+Orb (3),7.621034,1.524207,5,24.90831,True,505,2022-Nov-21 @ Time 17:21:02
+GiantCelestialBody,105.1092,2.102184,50,23.19238,True,505,2022-Nov-21 @ Time 17:21:02
+Orb (2),14.45971,2.891942,5,10.60717,True,505,2022-Nov-21 @ Time 17:21:02
+GiantCelestialBody (1),84.71867,1.694373,50,63.22662,True,505,2022-Nov-21 @ Time 17:21:02
+GiantCelestialBody (4),168.1455,3.362909,50,11.96846,True,505,2022-Nov-21 @ Time 17:21:02
+GiantCelestialBody (3),56.29573,1.125915,50,30.42502,True,505,2022-Nov-21 @ Time 17:21:02
+GiantCelestialBody (2),128.6553,2.573106,50,14.02808,True,505,2022-Nov-21 @ Time 17:21:02
+GiantCelestialBody (4),644.9321,12.89864,50,1.607966,False,555,2022-Nov-21 @ Time 17:21:05
+Orb (2),76.82333,15.36467,5,1.106545,False,560,2022-Nov-21 @ Time 17:21:05
+GiantCelestialBody (2),653.2665,13.06533,50,1.647374,False,610,2022-Nov-21 @ Time 17:21:05
+Orb,5.521179,1.104236,5,36.89664,True,610,2022-Nov-21 @ Time 17:21:07
+Orb (3),18.13159,3.626318,5,13.8955,True,610,2022-Nov-21 @ Time 17:21:07
+GiantCelestialBody,271.7127,5.434254,50,8.292046,True,610,2022-Nov-21 @ Time 17:21:07
+GiantCelestialBody (1),97.6462,1.952924,50,54.62333,True,610,2022-Nov-21 @ Time 17:21:07
+GiantCelestialBody (3),101.7328,2.034656,50,24.04971,True,610,2022-Nov-21 @ Time 17:21:07
+GiantCelestialBody,672.5355,13.45071,50,1.743188,False,660,2022-Nov-21 @ Time 17:21:08
+Orb (3),81.83638,16.36728,5,1.333129,False,665,2022-Nov-21 @ Time 17:21:10
+Orb,9.463738,1.892748,5,29.76107,True,665,2022-Nov-21 @ Time 17:21:12
+GiantCelestialBody (1),116.7619,2.335238,50,44.47827,True,665,2022-Nov-21 @ Time 17:21:12
+GiantCelestialBody (3),237.335,4.746699,50,10.53919,True,665,2022-Nov-21 @ Time 17:21:12
+Orb,17.80961,3.561923,5,17.14742,True,665,2022-Nov-21 @ Time 17:21:17
+GiantCelestialBody (1),146.9611,2.939221,50,32.17807,True,665,2022-Nov-21 @ Time 17:21:17
+GiantCelestialBody (3),165.6012,3.312025,50,15.96958,True,665,2022-Nov-21 @ Time 17:21:17
+Orb,88.27256,17.65451,5,1.213789,False,670,2022-Nov-21 @ Time 17:21:20
+GiantCelestialBody (1),223.1326,4.462653,50,15.90366,True,670,2022-Nov-21 @ Time 17:21:22
+GiantCelestialBody (3),80.15886,1.603177,50,25.98866,True,670,2022-Nov-21 @ Time 17:21:22
+GiantCelestialBody (1),255.0313,5.100626,50,12.65734,True,670,2022-Nov-21 @ Time 17:21:27
+GiantCelestialBody (3),43.82786,0.8765572,50,29.75916,True,670,2022-Nov-21 @ Time 17:21:27
+GiantCelestialBody (1),192.1545,3.843091,50,31.5555,True,670,2022-Nov-21 @ Time 17:21:32
+GiantCelestialBody (3),49.31604,0.9863207,50,27.6033,True,670,2022-Nov-21 @ Time 17:21:32
